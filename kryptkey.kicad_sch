@@ -7567,7 +7567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 58.42 48.26 0)
 			(effects
 				(font
@@ -7836,7 +7836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 101.6 88.9 0)
 			(effects
 				(font
@@ -8169,7 +8169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 175.26 36.83 0)
 			(effects
 				(font
@@ -8367,7 +8367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 74.93 165.1 0)
 			(effects
 				(font
@@ -8691,7 +8691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 31.75 102.616 0)
 			(effects
 				(font
@@ -8896,7 +8896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 228.6 36.83 0)
 			(effects
 				(font
@@ -9097,7 +9097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 226.06 119.126 0)
 			(effects
 				(font
@@ -9162,7 +9162,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3V3"
 			(at 220.98 87.63 0)
 			(effects
 				(font
@@ -10259,7 +10259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3V_A"
+		(property "Value" "+3V3_A"
 			(at 185.42 36.83 0)
 			(effects
 				(font
