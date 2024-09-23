@@ -4178,7 +4178,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "1fe85cdd-a281-43e0-bcc5-b72f76a42eca")
+		(uuid "27175bbb-f1c9-475b-b167-2df6b0477d8f")
 	)
 	(wire
 		(pts
@@ -6157,7 +6157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
 			(at 102.87 184.15 0)
 			(effects
 				(font
@@ -6487,7 +6487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_12x12mm_H8mm"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 218.44 47.498 90)
 			(effects
 				(font
@@ -6901,7 +6901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
 			(at 232.41 129.54 0)
 			(effects
 				(font
@@ -7780,7 +7780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
 			(at 121.92 176.53 0)
 			(effects
 				(font
@@ -7978,7 +7978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
 			(at 121.92 184.15 0)
 			(effects
 				(font
@@ -8107,7 +8107,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+		(property "Footprint" "MountingHole:MountingHole_2.7mm_M2.5"
 			(at 102.87 176.53 0)
 			(effects
 				(font
@@ -9113,7 +9113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Plug_ShenzhenJingTuoJin_918-118A2021Y40002_Vertical"
+		(property "Footprint" "Connector_USB:USB_C_Plug_JAE_DX07P024AJ1"
 			(at 260.35 93.98 0)
 			(effects
 				(font
@@ -9696,7 +9696,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled"
+		(property "Footprint" "Button_Switch_THT:SW_E-Switch_EG1271_SPDT"
 			(at 106.68 100.33 0)
 			(effects
 				(font
